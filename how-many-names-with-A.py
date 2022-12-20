@@ -20,7 +20,7 @@ def operation():
 	Anteil = counterDurchCycles * 100
 	Anteil = float(Anteil)
 	print("\nvon " + str(cycles) + " random Namen begannen " + str(counter) + " mit einem '" + letterToSearch + "'") #output the result
-	print(str(round(Anteil, 2)) + "% der Gesammtmänge beginnen mit '" + letterToSearch + "'")
+	print(str(round(Anteil, 2)) + "% der Gesammtmänge beginnt mit '" + letterToSearch + "'")
 
 operation()
 useless = str(input("\nEnter zum beenden"))
