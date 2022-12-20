@@ -4,4 +4,4 @@
 2. set the letter do you want search for (grand letter)
 3. now you have a result
 
-this statistical calculation isn't valid!!!
+This statistical calculation isn't valid!!!
